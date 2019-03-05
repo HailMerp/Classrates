@@ -1,0 +1,3 @@
+https://westeurope.api.cognitive.microsoft.com/text/analytics/v2.0
+
+d8d65fa979a644d3a705ba6834b60139
